@@ -1,0 +1,3 @@
+FuncionesPaginaVet: Es la carpeta donde esta la pagina dynamica de Eclipse es decir las funciones(jsp y servlet)
+paginaWebActividad3: Es la carpeta donde esta la pagina estatica(veterinario)
+FuncionesPaginaVet.war: Es el archivo de Eclipse exportado en .war el cual situamos en la carpeta webapps de Xampp/Tomcat
